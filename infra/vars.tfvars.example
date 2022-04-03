@@ -1,0 +1,15 @@
+# general
+token        = ""
+ssh_key_name = ""
+
+# projecg
+project_name        = "k8s_example"
+project_description = "A project to represent development resources."
+project_purpouse    = "not managed kubernetes demonstration"
+
+
+# droplets
+droplet_count  = 3
+droplet_image  = "ubuntu-20-04-x64"
+droplet_region = "nyc1"
+droplet_size   = "s-1vcpu-1gb"
